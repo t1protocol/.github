@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Us
+## 🧩 What is t1protocol?
 
 <img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/> is pioneering intent-based bridges with **RTP (Real Time Proofs)** and **programmability**, enabling secure, flexible, and developer-friendly interactions between blockchain networks.
 
@@ -26,21 +26,23 @@ We’re focused on transparency, trust, and community-driven open-source develop
 
 ---
 
-## 🛠️ Featured Repositories
+## 🛠️ Key Repositories
 
 | Repo | Description | Status |
 |------|-------------|--------|
 | [t1 monorepo](https://github.com/t1protocol/t1) | Core implementation of t1’s RTP and programmable logic. | 🚧 Testnet |
+
 ---
 
-## 🤝 Contribute
+## 🤝 Contribute to t1
 
-We welcome developers, researchers, and contributors!
+We 💙 open-source builders.
 
-- 📖 [How to Contribute](https://github.com/t1protocol/t1?tab=readme-ov-file#contributing)
-- 🐛 [File Issues](https://github.com/t1protocol/t1/issues)
+- 🤖 [Contribute Code](https://github.com/t1protocol/t1?tab=readme-ov-file#contributing)
+- 🐛 File Issues or Feature Requests
+- 🌐 Propose integrations or new use-cases
 
-💬 Want to engage further? Join the discussion on our [Discord](https://discord.gg/C6kDaJS5).
+💬 Want to engage further? Jump to our [Discord](https://discord.gg/C6kDaJS5).
 
 ---
 
