@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Welcome to <img src="./t1-avatar.png" alt="t1 logo" width="30" style="vertical-align: middle; "/> protocol 👋
+  Welcome to <img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"> protocol 👋
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Us
 
-<img src="./t1-avatar.png" alt="t1 logo" width="20" style="vertical-align: middle; "/> is pioneering intent-based bridges with **RTP (Real Time Proofs)** and **programmability**, enabling secure, flexible, and developer-friendly interactions between blockchain networks.
+<img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/> is pioneering intent-based bridges with **RTP (Real Time Proofs)** and **programmability**, enabling secure, flexible, and developer-friendly interactions between blockchain networks.
 
 We’re focused on transparency, trust, and community-driven open-source development.
 
@@ -45,5 +45,5 @@ We welcome developers, researchers, and contributors!
 ---
 
 <p align="center">
-  <i><img src="./t1-avatar.png" alt="t1 logo" width="20" style="vertical-align: middle; "/> protocol – Making Intent Bridges Better</i>
+  <i><img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/> protocol – Making Intent Bridges Better</i>
 </p>
