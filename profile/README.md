@@ -47,5 +47,5 @@ We 💙 open-source builders:
 ---
 
 <p align="center">
-  <i><img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/> protocol – Making Intent Bridges Better</i>
+  <i><img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/></i>
 </p>
