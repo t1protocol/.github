@@ -13,12 +13,12 @@
 <p align="center">
   <a href="https://t1protocol.com/"> Website</a> •
   <a href="https://docs.t1protocol.com"> Docs</a> •
-  <a href="https://twitter.com/t1protocol"> Twitter</a> •
+  <a href="https://twitter.com/t1protocol"> Twitter</a>
 </p>
 
 ---
 
-## 🧩 What is t1protocol?
+## 🧩 What is t1 protocol?
 
 <img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/> is pioneering intent-based bridges with **RTP (Real Time Proofs)** and **programmability**, enabling secure, flexible, and developer-friendly interactions between blockchain networks.
 
