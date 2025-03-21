@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>RTP & Programmability for Better Intent Bridges</strong>
+  <strong>Real-time proofs to unify Ethereum</strong>
 </p>
 
 <p align="center">
