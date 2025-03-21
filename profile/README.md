@@ -20,7 +20,7 @@
 
 ## 🧩 What is t1 protocol?
 
-<img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/> is pioneering intent-based bridges with **RTP (Real Time Proofs)** and **programmability**, enabling secure, flexible, and developer-friendly interactions between blockchain networks.
+<img src="./t1-avatar.png" alt="t1 logo" width="24" align="absmiddle"/> is a rollup that introduces real-time proofs to unify Ethereum and the rollup ecosystem.
 
 We’re focused on transparency, trust, and community-driven open-source development.
 
