@@ -36,11 +36,11 @@ We’re focused on transparency, trust, and community-driven open-source develop
 
 ## 🤝 Contribute to t1
 
-We 💙 open-source builders.
+We 💙 open-source builders:
 
-- 🤖 [Contribute Code](https://github.com/t1protocol/t1?tab=readme-ov-file#contributing)
-- 🐛 File Issues or Feature Requests
-- 🌐 Propose integrations or new use-cases
+- 🤖 [Do you wanna contribute?](https://github.com/t1protocol/t1?tab=readme-ov-file#contributing)
+- 🐛 File Protocol [Issues](https://github.com/t1protocol/t1/issues)
+- 💅🏻 Propose Frontend [Features](https://github.com/t1protocol/frontends/issues)
 
 💬 Want to engage further? Jump to our [Discord](https://discord.gg/C6kDaJS5).
 
